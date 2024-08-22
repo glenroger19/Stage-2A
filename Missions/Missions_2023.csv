@@ -1,0 +1,123 @@
+﻿Mission;Date de départ;;Ville de départ;Pays de départ;Ville de destination;Pays de destination;;;Moyens de transport;;;;;Nb de personnes dans la voiture;Aller / Retour;Motif du déplacement
+1;01/01/2023;;PARIS CEDEX 13;France;Canberra;Australie;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
+2;05/02/2023;;GENTILLY;France;MONTPELLIER;France;;;Train;;;;;;OUI;Rech. en équipe, collaboration
+3;06/02/2023;;IGNY;France;VENISE;Italie;;;Avion;;;;;1;OUI;Colloques et congrés
+4;08/02/2023;;PARIS;France;BRUXELLES;Belgique;;;Train;;;;;;OUI;Colloques et congrés
+5;13/02/2023;;PARIS ;France;PARIS;France;;;Metro;;;;;;OUI;Acq nouv connaissances&techniq
+6;13/02/2023;;PARIS ;France;PARIS;France;;;Metro;;;;;;OUI;Acq nouv connaissances&techniq
+7;28/02/2023;;PARIS;France;SAINT MARTIN D ARDECHE;France;;;Train;;;;;;OUI;Rech. doc. ou sur terrain
+8;28/02/2023;;PARIS;France;SAINT MARTIN D ARDECHE;France;;;Train;;;;;1;OUI;Rech. en équipe, collaboration
+9;28/02/2023;;PARIS;France;ST MARTIN D ARDECHE;France;;;Train;;;;;;OUI;Rech. en équipe, collaboration
+10;05/03/2023;;IGNY;France;BOSTON;Etats-Unis;;;Avion;;;;;1;OUI;Acq nouv connaissances&techniq
+11;13/03/2023;;PARIS;France;GEILO;Norvège;;;Train;;;;;;OUI;Colloques et congrés
+12;13/03/2023;;PARIS;France;ORLEANS;France;;;Train;;;;;;OUI;Rech. en équipe, collaboration
+13;29/03/2023;;LE KREMLIN BICETRE;France;VIENNE ;Autriche;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
+14;02/05/2023;;PARIS;France;NICE;France;;;Train;;;;;;OUI;Colloques et congrés
+15;10/05/2023;;PARIS;France;SAINT-PIERRE-D'OLERON;France;;;Train;;;;;;OUI;Colloques et congrés
+16;12/05/2023;;PARIS;France;Alghero;Italie;;;Avion;;;;;;OUI;Colloques et congrés
+17;16/05/2023;;PARIS;France;SEATTLE;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+18;22/05/2023;;SEATTLE;Etats-Unis;WASHINGTON;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+19;23/05/2023;;PARIS;France;BRATISLAVA;Slovaquie;;;Avion;;;;;1;OUI;Visite, contact pour projet
+20;24/05/2023;;PARIS;France;CAEN;France;;;Train;;;;;;OUI;Autres
+21;30/05/2023;;PARIS;France;PARIS;France;;;Métro;;;;;;OUI;Acq nouv connaissances&techniq
+22;01/06/2023;;BAGNEUX;France;SANT JULIA DE LORIA;Andorre;;;Train;;;;;1;OUI;Visite, contact pour projet
+23;01/06/2023;;IGNY;France;SANT JULIA DE LORIA;Andorre;;;Train;;;;;1;OUI;Visite, contact pour projet
+24;05/06/2023;;PARIS;France;LYON;France;;;Train;;;;;;OUI;Colloques et congrés
+25;05/06/2023;;PARIS;France;LYON;France;;;Train;;;;;;OUI;Colloques et congrés
+26;13/06/2023;;PARIS;France;RENNES;France;;;Train;;;;;;OUI;Colloques et congrés
+27;18/06/2023;;PARIS;France;BORDEAUX;France;;;Train;;;;;;OUI;Colloques et congrés
+28;19/06/2023;;PARIS;France;PARIS;France;;;Métro;;;;;;OUI;Acq nouv connaissances&techniq
+29;01/07/2023;;PARIS;France;PRAGUE;Rép. Tchèque;;;Avion;;;;;;OUI;Colloques et congrés
+30;09/07/2023;;PRAGUE;Rép. Tchèque;PRAGUE;Rép. Tchèque;;;Avion;;;;;;OUI;Colloques et congrés
+31;13/07/2023;;PRAGUE;Rép. Tchèque;PRAGUE;Rép. Tchèque;;;Avion;;;;;;OUI;Colloques et congrés
+32;30/07/2023;;Paris;;Athenes;Grèce;;;Avion;;;;;1;OUI;Colloques, congrès et séminaires
+33;04/09/2023;;PARIS;France;Caen;France;;;Train;;;;;;OUI;Recherche en équipe, collaboration
+34;10/09/2023;;PARIS;France;Nice;France;;;Train;;;;;;OUI;Colloques, congrès et séminaires
+35;14/09/2023;;Bagneux;France;Turin;Italie;;;Avion;;;;;1;OUI;Colloques, congrès et séminaires
+36;17/09/2023;;Turin;Italie;Barcelone;Espagne;;;Avion;;;;;1;OUI;Colloques, congrès et séminaires
+37;24/09/2023;;Antony;;Barcelone;Espagne;;;Avion;;;;;;NON;Formation
+38;24/09/2023;;Antony;;Barcelone;Espagne;;;Avion;;;;;;NON;Formation
+39;27/09/2023;;PARIS;France;Saint-Aubin;France;;;RER;;;;;;OUI;Recherche en équipe, collaboration
+40;03/10/2023;;Paris;France;Cambridge;Etats-Unis;;;Avion;;;;;;OUI;Recherche en équipe, collaboration
+41;03/10/2023;;PARIS;France;Cambridge;Etats-Unis;;;Avion;;;;;;OUI;Recherche en équipe, collaboration
+42;05/10/2023;;VILLEURBANNE;France;Paris;France;;;Train;;;;;;NON;Administration de la recherche
+43;05/10/2023;;VILLEURBANNE;France;Paris;France;;;Train;;;;;;NON;Administration de la recherche
+44;05/10/2023;;Lille;France;Paris;France;;;Train;;;;;;NON;
+45;05/10/2023;;Lille;France;Paris;France;;;Train;;;;;;NON;
+46;05/10/2023;;ST MARTIN D HERES;France;Paris;France;;;Train;;;;;;NON;Administration de la recherche
+47;05/10/2023;;ST MARTIN D HERES;France;Paris;France;;;Train;;;;;;NON;Administration de la recherche
+48;06/10/2023;;Igny;France;Lyon;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+49;06/10/2023;;Igny;France;Lyon;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+50;06/10/2023;;Igny;France;Lyon;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+51;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Administration de la recherche
+52;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Administration de la recherche
+53;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+54;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+55;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+56;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+57;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Visite, contact pour projet
+58;09/10/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Visite, contact pour projet
+59;11/10/2023;;Paris;France;Berlin;Allemagne;;;Avion;;;;;1;NON;Colloques, congrès et séminaires
+60;11/10/2023;;Paris;France;Berlin;Allemagne;;;Avion;;;;;1;NON;Colloques, congrès et séminaires
+61;19/10/2023;;Paris;France;Lyon;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+62;19/10/2023;;Paris;France;Lyon;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+63;19/10/2023;;Paris;France;Lyon;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+64;22/10/2023;;Paris;France;Turku;Finlande;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+65;22/10/2023;;Paris;France;Turku;Finlande;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+66;22/10/2023;;Paris;France;Turku;Finlande;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+67;22/10/2023;;Paris;France;Turku;Finlande;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+68;22/10/2023;;Paris;France;Turku;Finlande;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+69;25/10/2023;;Paris;France;Bretigny-sur-Orge;France;;;RER;;;;;1;OUI;Colloques, congrès et séminaires
+70;25/10/2023;;Bretigny-sur-Orge;France;Bretigny-sur-Orge;France;;;RER;;;;;1;OUI;Colloques, congrès et séminaires
+71;07/11/2023;;Rennes;France;Paris;France;;;Train;;;;;;OUI;Colloques, congrès et séminaires
+72;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+73;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+74;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+75;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+76;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+77;09/11/2023;;Arcueil;;Hyeres-Les-Palmiers;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+78;12/11/2023;;Athis-Mons;;Ferrol;Espagne;;;Avion;;;;;;NON;Recherche en équipe, collaboration
+79;12/11/2023;;Athis-Mons;;Ferrol;Espagne;;;Avion;;;;;;NON;Recherche en équipe, collaboration
+80;12/11/2023;;Athis-Mons;;Ferrol;Espagne;;;Avion;;;;;;NON;Recherche en équipe, collaboration
+81;13/11/2023;;LE HAVRE;France;Paris;France;;;Train;;;;;;NON;
+82;13/11/2023;;LE HAVRE;France;Paris;France;;;Train;;;;;;NON;
+83;13/11/2023;;Pompey;France;Paris;France;;;Train;;;;;;NON;
+84;13/11/2023;;Pompey;France;Paris;France;;;Train;;;;;;NON;
+85;13/11/2023;;Lyon;France;Paris;France;;;Train;;;;;;NON;
+86;13/11/2023;;Lyon;France;Paris;France;;;Train;;;;;;NON;
+87;14/11/2023;;Noisy-le-Grand;France;Rennes;France;;;Train;;;;;;NON;
+88;14/11/2023;;Noisy-le-Grand;France;Rennes;France;;;Train;;;;;;NON;
+89;07/11/2023;;PARIS;France;New York;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+90;07/11/2023;;PARIS;France;New York;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+91;09/11/2023;;New York;Etats-Unis;Worcester;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+92;09/11/2023;;New York;Etats-Unis;Worcester;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+93;17/11/2023;;Worcester;Etats-Unis;Washington;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+94;17/11/2023;;Worcester;Etats-Unis;Washington;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+95;07/11/2023;;Ivry-sur-Seine;France;New York;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+96;07/11/2023;;Ivry-sur-Seine;France;New York;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+97;07/11/2023;;Ivry-sur-Seine;France;New York;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+98;09/11/2023;;New York;Etats-Unis;Worcester;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+99;09/11/2023;;New York;Etats-Unis;Worcester;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+100;09/11/2023;;New York;Etats-Unis;Worcester;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+101;17/11/2023;;Worcester;Etats-Unis;Washington;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+102;17/11/2023;;Worcester;Etats-Unis;Washington;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+103;17/11/2023;;Worcester;Etats-Unis;Washington;Etats-Unis;;;Avion;;;;;;NON;Colloques, congrès et séminaires
+104;23/11/2023;;PARIS 13;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+105;23/11/2023;;PARIS 13;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+106;23/11/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+107;23/11/2023;;Paris;France;Orleans;France;;;Train;;;;;;NON;Recherche en équipe, collaboration
+108;04/12/2023;;Paris;France;Nice;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+109;04/12/2023;;Paris;France;Nice;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+110;04/12/2023;;Paris;France;Nice;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+111;12/12/2023;;Noisy-le-Grand;France;Rennes;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+112;12/12/2023;;Noisy-le-Grand;France;Rennes;France;;;Train;;;;;;NON;Colloques, congrès et séminaires
+113;10/12/2023;;Paris;France;Nuremberg;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+114;10/12/2023;;Paris;France;Nuremberg;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+115;10/12/2023;;Nuremberg;Allemagne;Erlangen;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+116;10/12/2023;;Nuremberg;Allemagne;Erlangen;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+117;12/12/2023;;Erlangen;Allemagne;Nuremberg;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+118;12/12/2023;;Erlangen;Allemagne;Nuremberg;Allemagne;;;Avion;;;;;1;NON;Acquisition de nouvelles compétences techniques
+119;17/12/2023;;PARIS;France;Leyde;Pays-Bas;;;Train;;;;;;NON;Colloques, congrès et séminaires
+120;17/12/2023;;PARIS;France;Leyde;Pays-Bas;;;Train;;;;;;NON;Colloques, congrès et séminaires
+121;17/12/2023;;PARIS;France;Leyde;Pays-Bas;;;Train;;;;;;NON;Colloques, congrès et séminaires
+122;17/12/2023;;PARIS;France;Leyde;Pays-Bas;;;Train;;;;;;NON;Colloques, congrès et séminaires

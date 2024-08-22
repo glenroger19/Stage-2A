@@ -1,0 +1,55 @@
+﻿Mission;Date de départ;;Ville de départ;Pays de départ;Ville de destination;Pays de destination;;;Moyens de transport;;;;;Nb de personnes dans la voiture;Aller / Retour;Motif du déplacement
+1;01/01/2022;;PARIS;France;PIOMBINO;Italie;;;Avion;;;;;;OUI;Colloques et congrés
+2;02/01/2022;;;France;PIOMBINO;Italie;;;Train;;;;;;OUI;Colloques et congrés
+3;03/01/2022;;;France;PIOMBINO;Italie;;;Avion;;;;;;OUI;Colloques et congrés
+4;03/01/2022;;PARIS;France;PIOMBINO;Italie;;;Véhicule personnel;;;;;1;OUI;Colloques et congrés
+5;02/01/2022;;PARIS;France;PIOMBINO;Italie;;;Avion;;;;;;OUI;Colloques et congrés
+6;08/01/2022;;PIOMBINO;Italie;FLORENCE;Italie;;;Avion;;;;;;OUI;Colloques et congrés
+7;18/02/2022;;LE KREMLIN BICETRE;France;TOULOUSE;France;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
+8;08/03/2022;;BARCELONE;Espagne;PARIS;France;;;Avion;;;;;;OUI;Autres
+9;15/03/2022;;CUBRIAL;France;PARIS;France;;;Train;;;;;1;OUI;Colloques et congrés
+10;23/03/2022;;LE KREMLIN BICETRE;France;MADRID;Espagne;;;Avion;;;;;;OUI;Autres
+11;04/04/2022;;NANTES;France;PARIS;France;;;Train;;;;;;OUI;Colloques et congrés
+12;05/04/2022;;CHAMPNETERY;France;MEGÈVE;France;;;Véhicule personnel;;;;;1;OUI;Colloques et congrés
+13;27/04/2022;;PARIS;France;BRATISLAVA;Slovaquie;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
+14;30/04/2022;;PARIS;France;LISBONNE;Portugal;;;Avion;;;;;;OUI;Visite, contact pour projet
+15;11/05/2022;;BRUNOY;France;TOULOUSE;France;;;Avion;;;;;1;OUI;Colloques et congrés
+16;11/05/2022;;PARIS;France;TOULOUSE;France;;;Train;;;;;;OUI;Colloques et congrés
+17;14/05/2022;;CHAMPNETERY;France;NIMÈGUE;Pays-Bas;;;Véhicule personnel;;;;;1;OUI;Visite, contact pour projet
+18;23/05/2022;;LE KREMLIN BICETRE;France;GENES;Italie;;;Avion;;;;;1;OUI;Colloques et congrés
+19;24/05/2022;;PARIS;France;LYON;France;;;Train;;;;;;OUI;Colloques et congrés
+20;25/05/2022;;BAGNEUX;France;LYON;France;;;Train;;;;;;OUI;Colloques et congrés
+21;07/06/2022;;LA CROIX DU PERCHE;France;CABOURG;France;;;Véhicule personnel;;;;;1;OUI;Autres
+22;07/06/2022;;PARIS;France;CABOURG;France;;;Véhicule personnel;;;;;1;OUI;Autres
+23;07/06/2022;;GRANVILLE;France;CABOURG;France;;;Véhicule personnel;;;;;1;OUI;Autres
+24;15/06/2022;;PARIS;France;BOSTON;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+25;21/06/2022;;BOSTON;Etats-Unis;MONTREAL;Canada;;;Avion;;;;;;OUI;Colloques et congrés
+26;26/06/2022;;IGNY;France;LISBONNE;Portugal;;;Avion;;;;;1;OUI;Colloques et congrés
+27;25/06/2022;;PARIS;France;VARSOVIE;Pologne;;;Avion;;;;;;OUI;Colloques et congrés
+28;26/06/2022;;VARSOVIE;Pologne;SANDOMIERZ;Pologne;;;Avion;;;;;;OUI;Colloques et congrés
+29;02/07/2022;;SANDOMIERZ;Pologne;VARSOVIE;Pologne;;;Avion;;;;;;OUI;Colloques et congrés
+30;09/07/2022;;IGNY;France;MONTREAL;Canada;;;Avion;;;;;1;OUI;Colloques et congrés
+31;17/07/2022;;CHAVILLE;France;MADRID;Espagne;;;Avion;;;;;;OUI;Colloques et congrés
+32;02/09/2022;;PARIS;France;LA CANEE;Grèce;;;;;;;;;OUI;Colloques et congrés
+33;04/09/2022;;LA CANEE;Grèce;LA CANEE;Grèce;;;;;;;;;OUI;Colloques et congrés
+34;09/09/2022;;LA CANEE;Grèce;LA CANEE;Grèce;;;;;;;;;OUI;Colloques et congrés
+35;11/09/2022;;NOISY-LE-GRAND;France;ATHENES;Grèce;;;Avion;;;;;;OUI;Colloques et congrés
+36;13/09/2022;;PARIS;France;MONTPELLIER ;France;;;Train;;;;;;OUI;Rech. en équipe, collaboration
+37;23/09/2022;;IGNY;France;BERGISCH GLADBACH;Allemagne;;;Train;;;;;1;OUI;Rech. en équipe, collaboration
+38;26/09/2022;;CHAVILLE;France;BERLIN;Allemagne;;;Avion;;;;;1;OUI;Colloques et congrés
+39;07/11/2022;;BRUNOY;France;ROSCOFF;France;;;Train;;;;;;OUI;Colloques et congrés
+40;18/10/2022;;PARIS;France;Santa Barbara;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+41;19/11/2022;;Santa Barbara;Etats-Unis;Indianapolis;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+42;23/11/2022;;Indianapolis;Etats-Unis;Chicago;Etats-Unis;;;Avion;;;;;;OUI;Colloques et congrés
+43;24/11/2022;;LYON;France;PARIS;France;;;Train;;;;;;OUI;Colloques et congrés
+44;05/12/2022;;VANVES;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+45;05/12/2022;;PARIS;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+46;05/12/2022;;FONTENAY-AUX-ROSES;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+47;05/12/2022;;MONTROUGE;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+48;05/12/2022;;PARIS;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+49;05/12/2022;;PARIS;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+50;05/12/2022;;PARIS;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+51;03/12/2022;;PARIS;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+52;05/12/2022;;STRASBOURG;France;STRASBOURG;France;;;Train;;;;;;OUI;Colloques et congrés
+53;15/12/2022;;PARIS;France;ISTANBUL;Turquie;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
+54;22/12/2022;;PARIS;France;SOFIA;Bulgarie;;;Avion;;;;;;OUI;Rech. en équipe, collaboration
