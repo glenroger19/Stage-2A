@@ -74,7 +74,7 @@ Q_conf = Q_total_avec_reg / 1000; % Puissance (kW)
 
 h_conf = 13;
 
-T_eco = 10;
+T_eco = 12;
 
 Q_murs1_eco = U_murs1_avec_reg * A_mur1 * max(0, (T_eco - T_reelle));
 Q_murs2_eco = U_murs2_avec_reg * A_mur2 * max(0, (T_eco - T_reelle));
@@ -112,7 +112,7 @@ figure;
 b = bar([1 2], [E_annuelle_sans_regulation, E_annuelle_reg], 'FaceColor', 'flat');
 b.CData(1, :) = [0 0.4470 0.7410]; % Bleu pour la consommation sans régulation
 b.CData(2, :) = [0.8500 0.3250 0.0980]; % Orange pour la consommation avec régulation
-set(gca, 'XTickLabel', {'Sans régulation', 'Avec régulation'});
+set(gca, 'XTickLabel', {'Sans modification', 'Avec modification'});
 ylabel('Consommation annuelle (MWh)');
 title('Consommation énergétique annuelle en 2022');
 
